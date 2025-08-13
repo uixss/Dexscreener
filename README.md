@@ -1,5 +1,4 @@
-**Guía rápida (no técnica) para clientes** — lista para copiar o descargar.  
-
+ 
 > Este bot te avisa, por Telegram o por registro de actividad, cuando un token **se dispara (pumped)**, **se desploma (rugged)** o aparece algún **evento relevante**. Ideal para *monitoring* simple sin cuadros complejos. 🧭
 
 ---
